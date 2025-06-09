@@ -10,8 +10,8 @@ B. Luego agregue 10 numeros aleatorios de 100 a 200 a la lista ordenada. Utilice
 
 C. Muestre el largo de la lista ordenada
 
-d. Muestre y enumere los elementos sin modificar el TDA
+D. Muestre y enumere los elementos sin modificar el TDA
 
 E. Muestre un elemento con el método llamado metodo_nuevo (el índice debe buscarlo aleatoriamente, obtenga el largo de la lista_ordenada)
 
-G. Muestre la lista utilizando el método ver()
+F. Muestre la lista utilizando el método ver()
